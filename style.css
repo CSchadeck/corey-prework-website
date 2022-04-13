@@ -1,4 +1,9 @@
 body {
-    background: rgb(144, 15, 169);
+    background: #6736F7;
 }
-   
+ h1, p {
+     text-align: center;
+ }  
+ table{
+     border: 1px solid black;
+ }
