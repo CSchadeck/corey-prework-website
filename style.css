@@ -1,9 +1,35 @@
-body {
-    background: #6736F7;
-}
+/*header*/
+
  h1, p {
      text-align: center;
  }  
+
+ /* body*/
+
+ 
  table{
-     border: 1px solid black;
+     border: 1px solid black;  
  }
+
+.buddy-table{
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+}
+
+.buttercup-table{
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+}
+
+.js-event {
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+}
+}
+
+
+
+ /*footer*/
