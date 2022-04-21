@@ -13,7 +13,9 @@ body {
 
 
  /* content*/
-
+ body {
+     background-color: lightcyan;
+ }
  .content{
      width: 80%;
      max-width: 1024px;
@@ -27,3 +29,10 @@ body {
    
 
  /*footer*/
+footer {
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+    margin-top: 0;
+    padding: 16px
+}
