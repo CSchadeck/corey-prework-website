@@ -8,6 +8,7 @@ body {
      color: #ffffff;
      background-color: #000000;
      margin-top: 0;
+     margin-bottom: -16px;
      padding: 16px
  }  
 
@@ -21,7 +22,7 @@ body {
      max-width: 1024px;
      margin: 0 auto;   
      background-color: #fff;
-     padding: 0 16px 8px 16px;
+     padding: 16 16px 8px 16px;
  }
 
 
