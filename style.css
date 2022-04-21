@@ -1,35 +1,29 @@
-/*header*/
+body {
+    margin: 0;
+}
 
- h1, p {
+/*header*/
+ .header {
      text-align: center;
+     color: #ffffff;
+     background-color: #000000;
+     margin-top: 0;
+     padding: 16px
  }  
 
- /* body*/
 
- 
- table{
-     border: 1px solid black;  
+ /* content*/
+
+ .content{
+     width: 80%;
+     max-width: 1024px;
+     margin: 0 auto;   
  }
 
-.buddy-table{
-    width:70%; 
-    margin-left:15%; 
-    margin-right:15%;
-}
 
-.buttercup-table{
-    width:70%; 
-    margin-left:15%; 
-    margin-right:15%;
+.hide {
+    display: none;
 }
-
-.js-event {
-    width:70%; 
-    margin-left:15%; 
-    margin-right:15%;
-}
-}
-
-
+   
 
  /*footer*/
