@@ -21,7 +21,7 @@ body {
      max-width: 1024px;
      margin: 0 auto;   
      background-color: #fff;
-     padding: 8px;
+     padding: 0 16px 8px 16px;
  }
 
 
