@@ -24,15 +24,42 @@ body {
     margin: 0 auto;
     background-color: #C4FFFE;
     padding: 16px 16px 8px 16px;
+    border-radius: 0px 0px 8px 8px;
 }
 
 .description {
     margin-top: 0px;
+    line-height: 1.5;
+}
+
+.strong-text {
+    font-weight: bold;
+}
+
+.image {
+    border-radius: 50%;
+
 }
 
 .table {
     width: 100%;
     margin: auto
+}
+
+.table td {
+    text-align: center;
+    ;
+}
+
+
+.vertical-align-top {
+    vertical-align: top;
+}
+
+.buddy-table table td,
+.buttercup-table table td {
+    padding: 0px 0px 4px 8px;
+    line-height: 1.5;
 }
 
 #buddyButton,
